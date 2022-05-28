@@ -1,6 +1,8 @@
 # CFG Project
  
  
+ ![image](https://user-images.githubusercontent.com/100922415/170824427-976e6b9a-7d28-40f9-a6e2-93b0d59df8c6.png)
+
 
 Welcome!
 This is my first big project which I have completed in a team with two team members as part of my career switcher course with CFG Python and Web Apps Course. Over the course of the eight-week period, I learned the fundamental of python and reinforced my learning at the end of the course by building a small Food Program that works both with python and Edamam API.
